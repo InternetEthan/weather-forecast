@@ -6,6 +6,10 @@
     display: flex;
 }
 
+header {
+    text-align: center;
+}
+
 #left {
     width: 25%;
     flex: auto;
