@@ -1,0 +1,21 @@
+* {
+    border: 2px solid black;
+    margin: 2px;
+}
+#body {
+    display: flex;
+}
+
+#left {
+    width: 25%;
+    flex: auto;
+}
+
+#right {
+    width: 75%;
+    flex: auto;
+}
+
+textarea {
+    resize: none;
+  }
